@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Becoming a Programmer",
-  tagline: "making sense of the world of programming...",
+  tagline: "one step at a time...",
   favicon: "img/favicon.png",
 
   // Set the production url of your site here
