@@ -5,18 +5,18 @@ authors: dmslabbert
 tags: [hello, docusaurus]
 ---
 
-# Heading One
+## Heading One
 
 This is my first post...
 
-## Sub Heading 1.1
+### Sub Heading 1.1
 
 this is some subheading text
 
-## Sub Heading 1.2
+### Sub Heading 1.2
 
 this is some more subheading text
 
-# Conclusion
+## Conclusion
 
 bye
