@@ -69,7 +69,7 @@ const config = {
         title: "Home",
         logo: {
           alt: "Becoming a Programmer Logo",
-          src: "img/becoming-a-programmer-logo.png",
+          src: "img/logo.png",
         },
         items: [
           {
