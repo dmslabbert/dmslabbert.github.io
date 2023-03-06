@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Becoming a Programmer",
   tagline: "learn to code one step at a time...",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
 
   // Set the production url of your site here
   url: "https://becomingaprogrammer.academy",
@@ -69,7 +69,7 @@ const config = {
         title: "Home",
         logo: {
           alt: "Becoming a Programmer Logo",
-          src: "img/becoming-a-programmer-logo-black-one-liner.png",
+          src: "img/becoming-a-programmer-logo.png",
         },
         items: [
           {
