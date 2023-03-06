@@ -14,7 +14,7 @@
             <guid>https://becomingaprogrammer.academy/blog/my-first-post</guid>
             <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[This is my first post...]]></description>
-            <content:encoded><![CDATA[<p>This is my first post...</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>This is my first post...</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="sub-heading-11">Sub Heading 1.1<a href="#sub-heading-11" class="hash-link" aria-label="Direct link to Sub Heading 1.1" title="Direct link to Sub Heading 1.1">​</a></h2><p>this is some subheading text</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="sub-heading-12">Sub Heading 1.2<a href="#sub-heading-12" class="hash-link" aria-label="Direct link to Sub Heading 1.2" title="Direct link to Sub Heading 1.2">​</a></h2><p>this is some more subheading text</p><h1>Conclusion</h1><p>bye</p>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
         </item>
