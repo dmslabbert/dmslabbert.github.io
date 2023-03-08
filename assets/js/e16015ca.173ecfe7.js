@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbecoming_a_programmer_blog=self.webpackChunkbecoming_a_programmer_blog||[]).push([[9700],{5688:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);

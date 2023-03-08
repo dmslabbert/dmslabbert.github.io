@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbecoming_a_programmer_blog=self.webpackChunkbecoming_a_programmer_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to The Becoming a Programmer Academy","permalink":"/blog/welcome"}]}')}}]);
