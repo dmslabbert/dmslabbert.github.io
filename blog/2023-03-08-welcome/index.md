@@ -10,7 +10,7 @@ Welcome to **The Becoming a Programmer Academy**.
 
 ## Introduction
 
-I have been playing around with this idea to put to paper what I have learned over the years in terms of software development. The problem is that it is such a vast field and after 35+ years, I have quite a bit to share. So, how to do? Then it dawned on me. I need to create a complete pre-university course, covering all aspect of becoming a full stack software developer so you can learn how to build enterprise applications. 
+I have been playing around with this idea to put to paper what I have learned over the years in terms of software development. The problem is that it is such a vast field and after 35+ years, I have quite a bit to share. So, how to do? Then it dawned on me. I need to create a complete pre-university course, covering all aspect of becoming a full stack software developer, teaching you how to build industry-standard enterprise applications. 
 
 There are many courses teaching you how to learn the Java programming language, for example. Using a carpentry analogy, for me, learning Java is like teaching you how to use a hammer. The thing is, you are not really interested in hammers. You are really interested in building furniture. Now if you make hammers for a living, this analogy of mine falls flat on its face.
 
@@ -18,7 +18,7 @@ It turns out that learning to use a hammer is just a necessary skill required in
 
 Now, obviously, you have to replace the word "hammer" with "Java" and the word "furniture" with applications.
 
-Remember I said that I need to create a *pre-university course* that will turn you into a *full stack software developer*, able to build *enterprise applications*?  Let's look at this in more depth.
+Remember I said that I need to create a *pre-university course* that will turn you into a *full stack software developer*, able to build *industry-standard* *enterprise applications*?  Let's look at this in more depth.
 
 ## Pre-University Course
 
@@ -32,6 +32,10 @@ Remember I said that I need to create a *pre-university course* that will turn y
 
 ## Enterprise Applications
 
+### Information Systems
+
+### Industry Standard
+
 ## Full Stack 
 
 ### Front End Developer
@@ -42,5 +46,4 @@ Remember I said that I need to create a *pre-university course* that will turn y
 
 ## Conclusion
 
-**Disclaimer:** I suck at carpentry. I am **not** going to teach you how to use hammers and build tables and chairs and stuff. I am going to teach you how to build software applications.
-
+**Disclaimer:** I suck at carpentry! So, I am **not** going to teach you how to build tables and chairs and stuff. For that, you can have a look at [Fundamentals of Woodworking](https://www.fundamentalsofwoodworking.com/). On this website, I am going to teach you how to build software applications.
