@@ -74,6 +74,8 @@ const config = {
         logo: {
           alt: "Becoming a Programmer Logo",
           src: "img/logo.png",
+          srcDark: "img/logo-white.png"
+
         },
         items: [
           {
