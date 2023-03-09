@@ -3,7 +3,7 @@ title: Welcome to The Becoming a Programmer Academy
 slug: welcome
 authors: [dmslabbert]
 tags: [general]
-image: welcome.jpg
+image: ./img/welcome.jpg
 ---
 
 Welcome to **The Becoming a Programmer Academy**.
