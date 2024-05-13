@@ -1,12 +1,12 @@
 ---
-title: Welcome to The Becoming a Programmer Academy
+title: Welcome to Becoming a Programmer
 slug: welcome
 authors: [dmslabbert]
 tags: [general]
 image: ./img/welcome.jpg
 ---
 
-Welcome to **The Becoming a Programmer Academy**.
+Welcome to **Becoming a Programmer**.
 
 ## Introduction
 
@@ -14,7 +14,7 @@ I have been playing around with the idea to put to paper what I have learned ove
 
 There are many courses teaching you how to learn the Java programming language, for example. Using a carpentry analogy, for me, learning Java is like learning how to use a hammer. The problem is that you are not really interested in hammers. Rather, you are interested in making furniture. By the way, if you make hammers for a living, this whole analogy of mine falls flat on its face.
 
-It turns out that learning to use a hammer is just a necessary skill required in the furniture making process. So, you can be a master hammer swinger (if that is a thing), and at the same time have no clue how to make a table. So, I decided that the focus of the Becoming a Programmer Academy must be to teach you how to make furniture and in the process learn how to use a hammer. Now, obviously, you have to replace the word "hammer" with "Java" and the word "furniture" with software applications.
+It turns out that learning to use a hammer is just a necessary skill required in the furniture making process. So, you can be a master hammer swinger (if that is a thing), and at the same time have no clue how to make a table. So, I decided that the focus of Becoming a Programmer must be to teach you how to make furniture and in the process learn how to use a hammer. Now, obviously, you have to replace the word "hammer" with "Java" and the word "furniture" with software applications.
 
 **Disclaimer:** I suck at carpentry! So, I am **not** going to teach you how to build tables and chairs and stuff. For that, you can have a look at [Carpentry](https://en.wikipedia.org/wiki/Carpentry). On this website, I am going to teach you how to build software applications. Enterprise applications to be specific.
 
