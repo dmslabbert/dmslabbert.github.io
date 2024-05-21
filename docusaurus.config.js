@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Becoming a Programmer',
+  title: 'Programming in Practice',
   tagline: 'learn, learn, learn',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://becomingaprogrammer.bet',
+  url: 'programminginpractice.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -68,10 +68,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: "Becoming a Programmer",
+        title: "Programming in Practice",
         logo: {
-          alt: "Becoming a Programmer Logo",
-          src: "img/logo.png",
+          alt: "Programming in Practice Logo",
+          src: "img/ProgrammingInPracticeLogo.png",
           srcDark: "img/logo-white.png"
         },
         items: [
