@@ -72,7 +72,7 @@ const config = {
         logo: {
           alt: "Programming in Practice Logo",
           src: "img/becoming-a-programmer.png",
-          srcDark: "img/logo-white.png"
+          srcDark: "img/becoming-a-programmer.png"
         },
         items: [
           {
