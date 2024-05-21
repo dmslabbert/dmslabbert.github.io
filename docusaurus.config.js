@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Programming in Practice',
-  tagline: 'learn, learn, learn',
+  tagline: 'programming in practice',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -70,7 +70,7 @@ const config = {
       navbar: {
         title: "Programming in Practice",
         logo: {
-          alt: "Programming in Practice Logo",
+          alt: "Logo",
           src: "img/becoming-a-programmer.png",
           srcDark: "img/becoming-a-programmer.png"
         },
