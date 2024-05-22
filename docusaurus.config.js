@@ -71,8 +71,8 @@ const config = {
         title: "Programming in Practice",
         logo: {
           alt: "Logo",
-          src: "img/becoming-a-programmer.png",
-          srcDark: "img/becoming-a-programmer.png"
+          src: "img/pip_logo.png",
+          srcDark: "img/pip_logo.png"
         },
         items: [
           // {
