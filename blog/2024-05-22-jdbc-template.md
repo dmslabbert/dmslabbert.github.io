@@ -1,6 +1,13 @@
-# JdbcTemplate Examples
+---
+title: Using JdbcTemplate
+description: JdbcTemplate query & update examples
+slug: java/spring/jdbc
+authors: dmslabbert
+tags: [Java, Spring, JDBC]
+hide_table_of_contents: true
+---
 
-All these examples are copied from [Using JdbcTemplate](https://docs.spring.io/spring-framework/reference/data-access/jdbc/core.html#jdbc-JdbcTemplate) on the [Spring](https://spring.io/) website.
+All these examples have been taken (and adapted) from [Spring JdbcTemplate](https://docs.spring.io/spring-framework/reference/data-access/jdbc/core.html#jdbc-JdbcTemplate).
 
 ## SELECT
 
@@ -15,41 +22,32 @@ int countOfActorsNamedJoe = this.jdbcTemplate.queryForObject(
 ```
 
 ```java
-String lastName = this.jdbcTemplate.queryForObject(
+var id = 123L;
+var lastName = this.jdbcTemplate.queryForObject(
     "select last_name from t_actor where id = ?",
-    String.class, 1212L);
+    String.class, id);
 ```
 
 ```java
-Actor actor = jdbcTemplate.queryForObject(
-    "select first_name, last_name from t_actor where id = ?",
-    (resultSet, rowNum) -> {
-        Actor newActor = new Actor();
-        newActor.setFirstName(resultSet.getString("first_name"));
-        newActor.setLastName(resultSet.getString("last_name"));
-        return newActor;
-    }, 1212L);
+var id = 123L;
+var sql = "select first_name, last_name from t_actor where id = ?";
+var actor = jdbcTemplate.queryForObject(sql, (rs, rowNum) -> {
+    new Actor(rs.getString("first_name"), rs.getString("last_name"));
+}, id);
 ```
 
 ```java
-List<Actor> actors = this.jdbcTemplate.query(
-    "select first_name, last_name from t_actor",
-    (resultSet, rowNum) -> {
-        Actor actor = new Actor();
-        actor.setFirstName(resultSet.getString("first_name"));
-        actor.setLastName(resultSet.getString("last_name"));
-        return actor;
-        });
+var sql = "select first_name, last_name from t_actor";
+var actors = this.jdbcTemplate.query(sql, (rs, rowNum) -> {
+    new Actor(rs.getString("first_name"), rs.getString("last_name"));
+});
 ```
 
 ### Row Mapper
 
 ```java
-private final RowMapper<Actor> actorRowMapper = (resultSet, rowNum) -> {
-    Actor actor = new Actor();
-    actor.setFirstName(resultSet.getString("first_name"));
-    actor.setLastName(resultSet.getString("last_name"));
-    return actor;
+private final RowMapper<Actor> actorRowMapper = (rs, rowNum) -> {
+    return new Actor(rs.getString("first_name"), rs.getString("last_name"));
 };
 
 public List<Actor> findAllActors() {
