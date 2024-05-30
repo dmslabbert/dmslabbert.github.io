@@ -66,4 +66,7 @@
   width: 60%;
 }
 
-.attribution {text-align: center;}
+.attribution {
+  text-align: center;
+  font-size: small;
+}
