@@ -97,9 +97,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Programming in Practice (Pty) Ltd`,
       },
       prism: {
+        additionalLanguages: ["java","csharp"],
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        // additionalLanguages: ["csharp","java","powershell"],
       },
     }),
 };
