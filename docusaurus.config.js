@@ -82,6 +82,7 @@ const config = {
             position: 'left',
             label: 'Becoming a Programmer',
           },
+          {to: '/disclaimer', label: 'Disclaimer', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
