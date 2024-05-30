@@ -2,7 +2,9 @@
 
 ![Cones](/img/red-exclamation-circle.jpg)
 
+<div className="attribution">
 [Image by mamewmy on Freepik](https://www.freepik.com/free-photo/red-danger-alert-notification-reminder-icon-chat-message-bubble-symbol-background-3d-illustration_27522961.htm#query=disclaimer&position=16&from_view=keyword&track=sph&uuid=ece4de99-3315-4244-92f5-b7923b44d823)
+</div>
 
 Please read this disclaimer carefully before using the [Programming in Practice](https://programminginpractice.com) website operated by Deon Slabbert.
 
