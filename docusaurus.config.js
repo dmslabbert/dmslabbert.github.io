@@ -75,13 +75,13 @@ const config = {
           srcDark: "img/pip_logo.png"
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Becoming a Programmer',
+          },
           {to: '/about', label: 'About', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
