@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Programming in Practice',
-  tagline: "making sense of the world of programming...",
+  tagline: "making sense of programming...",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
