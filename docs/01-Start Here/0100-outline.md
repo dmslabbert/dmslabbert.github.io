@@ -53,9 +53,13 @@
 * Lesson 37 - Editors
 * Lesson 38 - Version Control
 
-## Section 06 - Summary
+## Section 06 - Software Development Life Cycle
 
-* Lesson 39 - What we Learned
-* Lesson 40 - The Courses
-* Lesson 41 - Sample Application
-* Lesson 42 - Whereto Next
+* Lesson 39 - Software Development Life Cycle Explained
+* Lesson ?? - Sample Application
+
+## Section 07 - Summary
+
+* Lesson ?? - What we Learned
+* Lesson ?? - The Courses
+* Lesson ?? - Whereto Next
