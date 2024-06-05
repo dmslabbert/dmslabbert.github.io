@@ -27,33 +27,35 @@
 
 ## Section 04 - Application Architecture
 
-* Lesson 17 - Front End
-* Lesson 18 - Back End
-* Lesson 19 - Data Persistence
-* Lesson 20 - Application Layers
-* Lesson 21 - Database Layer
-* Lesson 22 - Business Logic Layer
-* Lesson 23 - User Interface Layer
-* Lesson 24 - Data Access Layer
-* Lesson 25 - Business Access Layer
-* Lesson 26 - Request-Response Cycle
-* Lesson 27 - Application Tiers
+* Lesson 17 - Application Architecture Explained
+* Lesson 18 - Front End
+* Lesson 19 - Back End
+* Lesson 20 - Data Persistence
+* Lesson 21 - Application Layers
+* Lesson 22 - Database Layer
+* Lesson 23 - Business Logic Layer
+* Lesson 24 - User Interface Layer
+* Lesson 25 - Data Access Layer
+* Lesson 26 - Business Access Layer
+* Lesson 27 - Request-Response Cycle
+* Lesson 28 - Application Tiers
 
 ## Section 05 - Tools of the Trade
 
-* Lesson 28 - Databases
-* Lesson 29 - Programming Languages
-* Lesson 30 - Scripting Languages
-* Lesson 31 - Markup Languages
-* Lesson 32 - Styling Languages
-* Lesson 33 - Libraries
-* Lesson 34 - Frameworks
-* Lesson 35 - Editors
-* Lesson 36 - Version Control
+* Lesson 29 - Tools of the Trade Explained
+* Lesson 30 - Databases
+* Lesson 31 - Programming Languages
+* Lesson 32 - Scripting Languages
+* Lesson 33 - Markup Languages
+* Lesson 34 - Styling Languages
+* Lesson 35 - Libraries
+* Lesson 36 - Frameworks
+* Lesson 37 - Editors
+* Lesson 38 - Version Control
 
 ## Section 06 - Summary
 
-* Lesson 37 - What we Learned
-* Lesson 38 - The Courses
-* Lesson 39 - Sample Application
-* Lesson 40 - Whereto Next
+* Lesson 39 - What we Learned
+* Lesson 40 - The Courses
+* Lesson 41 - Sample Application
+* Lesson 42 - Whereto Next
