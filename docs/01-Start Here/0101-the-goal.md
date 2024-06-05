@@ -2,6 +2,7 @@
 
 ## Slide
 
+![Example banner](./assets/img/docusaurus-social-card.jpg)
 
 ## Narration
 
