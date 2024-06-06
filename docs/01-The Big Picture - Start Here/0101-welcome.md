@@ -1,4 +1,4 @@
-# Lesson 01 - The Goal
+# Lesson 01 - Welcome
 
 ## Slide
 
