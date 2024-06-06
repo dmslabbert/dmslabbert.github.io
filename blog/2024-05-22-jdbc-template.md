@@ -28,7 +28,7 @@ var lastName = this.jdbcTemplate.queryForObject(
     String.class, id);
 ```
 
-```java
+```java {3} showLineNumbers
 var id = 123L;
 var sql = "select first_name, last_name from t_actor where id = ?";
 var actor = jdbcTemplate.queryForObject(sql, (rs, rowNum) -> {
