@@ -5,15 +5,16 @@
 * Lesson 01 - The Goal
 * Lesson 02 - The Problem
 * Lesson 03 - The Solution
-* Lesson 04 - The Student
-* Lesson 05 - The Teacher
+* Lesson 04 - Prerequisites
+* Lesson 05 - Who Should Take This Course
+* Lesson 06 - About the Teacher
 
 ## Section 02 - Information Technology
 
-* Lesson 06 - Information Technology Explained
-* Lesson 07 - Data
-* Lesson 08 - Hardware
-* Lesson 09 - Software
+* Lesson 07 - Information Technology Explained
+* Lesson 08 - Data
+* Lesson 09 - Hardware
+* Lesson 9 - Software
 * Lesson 10 - Networking
 * Lesson 11 - People
 
@@ -50,12 +51,34 @@
 * Lesson 34 - Styling Languages
 * Lesson 35 - Libraries
 * Lesson 36 - Frameworks
-* Lesson 37 - Editors
-* Lesson 38 - Version Control
+* Lesson 38 - Text Editors
+* Lesson 39 - SQL Clients
+* Lesson 40 - Version Control
+
+## Section 06 - Technology Stacks
+
+* Lesson 41 - Technology Stacks Explained
+* Lesson 42 - Technology Stack Using Java
+* Lesson 43 - Technology Stack Using C#
+* Lesson 44 - Technology Stack Using Python
+* Lesson 45 - Technology Stack Using JavaScript
 
 ## Section 06 - Software Development Life Cycle
 
-* Lesson 39 - Software Development Life Cycle Explained
+* Lesson 46 - Software Development Life Cycle Explained
+* Lesson ?? - Idea
+* Lesson ?? - User Requirements
+* Lesson ?? - Current System Analysis 
+* Lesson ?? - New System Analysis
+* Lesson ?? - Cost Analysis
+* Lesson ?? - Planning
+* Lesson ?? - Design
+* Lesson ?? - Implementation
+* Lesson ?? - Testing
+* Lesson ?? - Deployment
+* Lesson ?? - Monitoring
+* Lesson ?? - Repeat
+* Lesson ?? - MVP
 * Lesson ?? - Sample Application
 
 ## Section 07 - Summary
