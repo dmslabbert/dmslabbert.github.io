@@ -2,8 +2,7 @@
 
 ## Section 01 - Introduction
 
-* Lesson 01 - Welcome
-* Lesson ## - The Goal
+* Lesson 01 - The Goal
 * Lesson ## - The Problem
 * Lesson ## - The Solution
 * Lesson ## - Prerequisites
