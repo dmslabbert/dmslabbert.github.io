@@ -2,7 +2,8 @@
 
 ## Section 01 - Introduction
 
-* Lesson 01 - The Goal
+* Lesson 01 - The Becoming a Programmer Series
+* Lesson 02 - The Goal
 * Lesson ## - The Problem
 * Lesson ## - The Solution
 * Lesson ## - Prerequisites
@@ -82,5 +83,4 @@
 ## Section 08 - Summary
 
 * Lesson ## - What We Learned
-* Lesson ## - The Becoming a Programmer Courses
 * Lesson ## - What Next
